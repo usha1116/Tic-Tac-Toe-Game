@@ -11,16 +11,9 @@
     padding: 0;
 }
 body{
-    background-color: rgb(167, 110, 139);
+    background-color: rgb(215, 185, 185);
     text-align: center;
-    background: repeating-linear-gradient(
-        45deg,
-        #000002,
-        #6b3c58 5%,
-        #bd66b0 5%,
-        #eaebf1 10%);
-        background-size: 100px 100px;
-        animation: move-it 2s linear infinite;
+
 }
 .container{
     height: 70vh;
@@ -100,3 +93,4 @@ h1:hover{
     width: 27%;
     margin: 0 auto;
 } 
+
